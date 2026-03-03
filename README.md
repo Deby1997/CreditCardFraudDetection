@@ -1,1 +1,2 @@
 # CreditCardFraudDetection
+Using Logistic Regression
